@@ -76,11 +76,11 @@ export default function About() {
                       <div className="text-primary-foreground/80">Increase in My engagement</div>
                     </div>
                     <div className="text-center">
-                      <div className="text-4xl font-bold mb-2">12</div>
+                      <div className="text-4xl font-bold mb-2">23</div>
                       <div className="text-primary-foreground/80">Municipalities served</div>
                     </div>
                     <div className="text-center">
-                      <div className="text-4xl font-bold mb-2">2.5k</div>
+                      <div className="text-4xl font-bold mb-2">8k</div>
                       <div className="text-primary-foreground/80">Active community members</div>
                     </div>
                   </div>

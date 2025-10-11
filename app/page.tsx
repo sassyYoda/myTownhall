@@ -188,7 +188,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 relative z-10">
           <div className="grid md:grid-cols-4 gap-8 text-center">
             <div className="transform hover:scale-110 transition-transform duration-300 group">
-              <div className="text-5xl font-bold text-white mb-2 group-hover:text-emerald-100 transition-colors">22</div>
+              <div className="text-5xl font-bold text-white mb-2 group-hover:text-emerald-100 transition-colors">23</div>
               <div className="text-emerald-100">Active Municipalities</div>
             </div>
             <div className="transform hover:scale-110 transition-transform duration-300 group">
@@ -243,7 +243,7 @@ export default function Home() {
             Ready to transform your <span className="text-emerald-400 font-medium">local democracy?</span>
           </h2>
           <p className="text-xl text-slate-300 mb-12 max-w-2xl mx-auto">
-            Join thousands of citizens across 22 active municipalities in the NJ-NY-PA region, with 12 more coming soon. Making local government transparent, accessible, and engaged.
+            Join thousands of citizens across 23 active municipalities in the NJ-NY-PA region, with 12 more coming soon. Making local government transparent, accessible, and engaged.
           </p>
           <Link
             href="/explore"
