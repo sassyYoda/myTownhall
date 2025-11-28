@@ -88,8 +88,8 @@ export default function Contact() {
                 <div>
                   <h3 className="font-medium text-slate-900 mb-1">Visit Us</h3>
                   <p className="text-slate-600">
-                    123 Democracy Street<br />
-                    My Center, DC 20001
+                    Based out of WWP High School South<br />
+                    346 Clarksville Road, Princeton Junction, NJ 08550
                   </p>
                 </div>
               </div>
