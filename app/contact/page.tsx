@@ -76,7 +76,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="font-medium text-slate-900 mb-1">Call Us</h3>
-                  <p className="text-slate-600">(555) 123-4567</p>
+                  <p className="text-slate-600">(478) 227-9929</p>
                   <p className="text-sm text-slate-500 mt-1">Mon-Fri, 9am-5pm EST</p>
                 </div>
               </div>
